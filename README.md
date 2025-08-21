@@ -1,11 +1,13 @@
 install dependencies:
 
 for backend:
+cd backend
 node seeder.js
 node server.js
 then
 
-cd frontend: 
+for frontend: 
+cd frontend
 npm install
 
 Start development server: npm run dev
