@@ -1,4 +1,4 @@
-nstall dependencies:
+install dependencies:
 for backend:
 node seeder.js
 node server.js
